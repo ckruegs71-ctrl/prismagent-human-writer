@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human Writer by PrismAgent"
+  short_description: "Natural writing that keeps your meaning and voice"
+  default_prompt: "Use $human-writer to edit my draft while preserving its facts, purpose, and voice."
